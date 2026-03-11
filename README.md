@@ -14,8 +14,18 @@ This Power BI project analyzes sales performance for a mobile and consumer elect
 
 ---
 
-# 1️⃣ Sales Overview 
+# 1️⃣ Sales Overview
+
 ---
+
 ## 🎯 Dashboard Objective
 The Sales Overview dashboard provides a high-level summary of overall sales performance including revenue, units sold, target achievement, and sales growth trends.
+
 ---
+
+## 📊 Dashboard preview
+
+
+
+---
+## 📊 Key KPIs
