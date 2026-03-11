@@ -11,20 +11,23 @@ This Power BI project analyzes sales performance for a mobile and consumer elect
 ## 🛠 Tools Used
 
 - Power BI
+- Data Modeling
 - DAX
 - Data Visualization
 - Sales Data Analysis
 
 ---
 
-# 1️⃣ Sales Overview Dashboard
+# 1️⃣ Sales Overview
 
 ## 🎯 Dashboard Objective
 
 The Sales Overview dashboard provides a high-level summary of overall sales performance including revenue, units sold, target achievement, and sales growth trends.
 
 ---
-
+## 📊 Dashboard Preview
+![Sales Overview](https://github.com/94vksaini-dotcom/Sales-Analytics-Power-Bi-Dashboard/blob/main/Sales%20Overview.png)
+---
 ## 📊 Key KPIs
 
 **Total Sales**  
@@ -66,12 +69,15 @@ Highlights the top-selling product models based on revenue.
 
 ---
 
-# 2️⃣ Dealer Performance Dashboard
+# 2️⃣ Dealer Performance
 
 ## 🎯 Dashboard Objective
 
 This dashboard evaluates dealer performance and identifies top and low-performing dealers based on their sales contribution.
 
+---
+## 📊 Dashboard Preview
+![Dealer Performance](https://github.com/94vksaini-dotcom/Sales-Analytics-Power-Bi-Dashboard/blob/main/Dealer%20Performance.png)
 ---
 
 ## 📊 Key KPIs
@@ -121,12 +127,15 @@ Detailed dealer-wise sales data including units sold, sales amount, and target a
 
 ---
 
-# 3️⃣ Product Performance Dashboard
+# 3️⃣ Product Performance
 
 ## 🎯 Dashboard Objective
 
 This dashboard analyzes product-level performance to identify top-selling brands and product contribution to total sales.
 
+---
+## 📊 Dashboard Preview
+![Sales Overview](
 ---
 
 ## 📊 Key KPIs
@@ -170,12 +179,15 @@ Identifies products with high and low sales velocity.
 
 ---
 
-# 4️⃣ Scheme Analysis Dashboard
+# 4️⃣ Scheme Analysis
 
 ## 🎯 Dashboard Objective
 
 This dashboard analyzes the effectiveness of promotional schemes and their impact on sales performance.
 
+---
+## 📊 Dashboard Preview
+![Sales Overview](
 ---
 
 ## 📊 Key KPIs
@@ -219,12 +231,15 @@ Detailed model-level scheme performance.
 
 ---
 
-# 5️⃣ Competitor Analysis Dashboard
+# 5️⃣ Competitor Analysis
 
 ## 🎯 Dashboard Objective
 
 This dashboard compares company sales with competitor performance and evaluates market positioning.
 
+---
+## 📊 Dashboard Preview
+![Sales Overview](
 ---
 
 ## 📊 Key KPIs
