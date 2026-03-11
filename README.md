@@ -135,7 +135,7 @@ This dashboard analyzes product-level performance to identify top-selling brands
 
 ---
 ## 📊 Dashboard Preview
-![Sales Overview](
+![Product Performance](https://github.com/94vksaini-dotcom/Sales-Analytics-Power-Bi-Dashboard/blob/main/Product%20Performance.png)
 ---
 
 ## 📊 Key KPIs
@@ -187,7 +187,7 @@ This dashboard analyzes the effectiveness of promotional schemes and their impac
 
 ---
 ## 📊 Dashboard Preview
-![Sales Overview](
+![Scheme Analysis](https://github.com/94vksaini-dotcom/Sales-Analytics-Power-Bi-Dashboard/blob/main/Scheme%20Analysis.png)
 ---
 
 ## 📊 Key KPIs
@@ -239,7 +239,7 @@ This dashboard compares company sales with competitor performance and evaluates 
 
 ---
 ## 📊 Dashboard Preview
-![Sales Overview](
+![Competitor Analysis](https://github.com/94vksaini-dotcom/Sales-Analytics-Power-Bi-Dashboard/blob/main/Competitor%20Analysis.png)
 ---
 
 ## 📊 Key KPIs
