@@ -24,7 +24,7 @@ The Sales Overview dashboard provides a high-level summary of overall sales perf
 ---
 
 ## 📊 Dashboard preview
-https://github.com/94vksaini-dotcom/Sales-Analytics-Power-Bi-Dashboard/blob/main/Sales%20Overview.png
+![Sales Overview](https://github.com/94vksaini-dotcom/Sales-Analytics-Power-Bi-Dashboard/blob/main/Sales%20Overview.png)
 
 
 ---
