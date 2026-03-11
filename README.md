@@ -1,1 +1,3 @@
-# Sales-Analytics-Power-Bi-Dashboard
+# 📊  Sales-Analytics-Power-Bi-Dashboard
+
+## 📌 Project Overview
