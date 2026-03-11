@@ -47,7 +47,7 @@ Percentage growth in sales compared to the previous period.
 ---
 
 ## 📈 Visualizations Used
-
+---
 **Monthly Sales Trend**  
 Shows sales performance over time and identifies seasonal sales patterns.
 
@@ -57,3 +57,15 @@ Displays sales contribution from different regions of Delhi.
 **Top Models**  
 Highlights the top-selling product models based on revenue.
 
+---
+## 🔎 Business Insights
+
+- South Delhi and West Delhi contribute the highest sales revenue.
+- Certain models such as **V29** and **A14** generate the highest revenue.
+- Monthly sales show fluctuations indicating seasonal demand patterns.
+- Target achievement above **100%** indicates strong sales performance.
+
+---
+# 2️⃣ Dealer Performance Dashboard
+
+## 🎯 Dashboard Objective
