@@ -8,5 +8,12 @@ This Power BI project analyzes sales performance for a mobile and consumer elect
 ## 🛠 Tools Used
 - Power BI
 - DAX
+- Data Modeling
 - Data Visualization
 - Sales Data Analysis
+
+---
+
+# 1️⃣ Sales Overview Dashboard
+---
+## 🎯 Dashboard Objective
